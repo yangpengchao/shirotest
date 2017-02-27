@@ -16,30 +16,30 @@
         <module>shiro-example-chapter6</module>
         <module>shiro-example-chapter7</module>
         <module>shiro-example-chapter8</module>
-        <module>shiro-example-chapter9</module>
-        <module>shiro-example-chapter10</module>
-        <module>shiro-example-chapter11</module>
-        <module>shiro-example-chapter12</module>
-        <module>shiro-example-chapter13</module>
-        <module>shiro-example-chapter14</module>
-        <module>shiro-example-chapter15-server</module>
-        <module>shiro-example-chapter15-client</module>
-        <module>shiro-example-chapter16</module>
-        <module>shiro-example-chapter17-server</module>
-        <module>shiro-example-chapter17-client</module>
-        <module>shiro-example-chapter18</module>
-        <module>shiro-example-chapter19</module>
-        <module>shiro-example-chapter20</module>
-        <module>shiro-example-chapter21</module>
-        <module>shiro-example-chapter22</module>
-        <module>shiro-example-chapter23-server</module>
-        <module>shiro-example-chapter23-core</module>
-        <module>shiro-example-chapter23-client</module>
-        <module>shiro-example-chapter23-pom</module>
-        <module>shiro-example-chapter23-app1</module>
-        <module>shiro-example-chapter23-app2</module>
-        <module>shiro-example-chapter23-nginx</module>
-        <module>shiro-example-chapter24</module>
+        <!--<module>shiro-example-chapter9</module>-->
+        <!--<module>shiro-example-chapter10</module>-->
+        <!--<module>shiro-example-chapter11</module>-->
+        <!--<module>shiro-example-chapter12</module>-->
+        <!--<module>shiro-example-chapter13</module>-->
+        <!--<module>shiro-example-chapter14</module>-->
+        <!--<module>shiro-example-chapter15-server</module>-->
+        <!--<module>shiro-example-chapter15-client</module>-->
+        <!--<module>shiro-example-chapter16</module>-->
+        <!--<module>shiro-example-chapter17-server</module>-->
+        <!--<module>shiro-example-chapter17-client</module>-->
+        <!--<module>shiro-example-chapter18</module>-->
+        <!--<module>shiro-example-chapter19</module>-->
+        <!--<module>shiro-example-chapter20</module>-->
+        <!--<module>shiro-example-chapter21</module>-->
+        <!--<module>shiro-example-chapter22</module>-->
+        <!--<module>shiro-example-chapter23-server</module>-->
+        <!--<module>shiro-example-chapter23-core</module>-->
+        <!--<module>shiro-example-chapter23-client</module>-->
+        <!--<module>shiro-example-chapter23-pom</module>-->
+        <!--<module>shiro-example-chapter23-app1</module>-->
+        <!--<module>shiro-example-chapter23-app2</module>-->
+        <!--<module>shiro-example-chapter23-nginx</module>-->
+        <!--<module>shiro-example-chapter24</module>-->
     </modules>
 
 
